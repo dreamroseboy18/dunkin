@@ -1,0 +1,18 @@
+#enroll {
+	pointer-events: none;
+	visibility: hidden;
+}	
+ 
+#loHeader {
+	pointer-events: none;
+}
+ 
+#show-more {
+	pointer-events: none;
+	visibility: hidden;
+}
+ 
+.primelxp-metaData {
+	visibility: hidden;
+}
+has context menu
